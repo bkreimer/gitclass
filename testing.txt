@@ -1,0 +1,2 @@
+Name, organization, town
+Troy Smith, Lincoln Journal Star, Lincoln
